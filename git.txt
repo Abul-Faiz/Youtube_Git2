@@ -1,0 +1,48 @@
+add -> commit -> push
+
+git clone = cloning github repository
+git status = checking status of files
+git init = initializing git
+
+1. git add = adding files to staging area
+
+2. git commit -m "message" = commiting to local repository
+
+3. git push origin main = pushing to github
+
+git add . = adding all files to staging area
+
+git branch = checking current branch
+git branch -a = checking all branches
+git branch -d = deleting branch
+
+git checkout -b = creating new branch
+
+git checkout = switching to branch
+
+git merge = merging branches
+git pull = pulling from github
+
+git remote -v = checking remote repository
+git remote add origin = adding remote repository
+
+git remote remove origin = removing remote repository
+
+git remote set-url origin = changing remote repository
+git remote set-url origin https://github.com/username/repository.git
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
