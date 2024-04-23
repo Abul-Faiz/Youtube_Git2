@@ -16,6 +16,8 @@ git branch = checking current branch
 git branch -a = checking all branches
 git branch -d = deleting branch
 
+git branch -m = renaming branch
+
 git checkout -b = creating new branch
 
 git checkout = switching to branch
